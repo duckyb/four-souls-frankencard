@@ -59,7 +59,7 @@ Paper Weight: 300 gsm
 Paper Stock: M31 Linen
 Paper Finish: Standard (MPC Game Card Finish)
 Card Dimensions: 2.5" × 3.5" (63.5 × 88.9 mm)
-Corner Radius: 4mm
+Corner Radius: 3mm
 ```
 
 ## How it was made
