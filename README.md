@@ -58,7 +58,8 @@ The loot card is **another problematic card back** that is often printed in diff
 Paper Weight: 300 gsm
 Paper Stock: M31 Linen
 Paper Finish: Standard (MPC Game Card Finish)
-Card dimensions: 2.5" × 3.5" (63.5 × 88.9 mm)
+Card Dimensions: 2.5" × 3.5" (63.5 × 88.9 mm)
+Corner Radius: 4mm
 ```
 
 ## How it was made
