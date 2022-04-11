@@ -64,12 +64,19 @@ Corner Radius: 3mm
 
 ## How it was made
 
-1. I downloaded all of the featured cards from foursouls.com
-2. I opened each card in photoshop and applied the following steps
-3. Verified setting in `Photoshop > Edit > Color Settings...`
+1. I contacted MPC (makeplayingcards.com) and asked them what CMYK colour profile they recommend for M31 linen paper. They sent me the ICC profile that you can find in this repository. (`HP Indigo Gloss Exp05 Ink 2880 v3.1`)
+2. I installed the provided colour profile.
+3. I downloaded all of the featured cards from foursouls.com
+4. I opened each card in photoshop and applied the following steps
+5. Verified setting in `Photoshop > Edit > Color Settings...`
 
 <img src="./assets/color_settings.png" width="800">
 
-4. Changed the color mode to CMYK `Photoshop > Image > Mode > CMYK Color`
-5. Each images was saved as a separate `.tif` file.
-6. All `.tif` files were imported in a new photoshop document (with the same colour mode / settings) and edited into the final result.
+6. Changed the color mode to CMYK `Photoshop > Image > Mode > CMYK Color`
+
+This is a preview of how the colour mode conversion affects the original files:
+
+<img src="./assets/conversion_example.png" width="800">
+
+7. Each images was saved as a separate `.tif` file.
+8. All `.tif` files were imported in a new photoshop document (with the same colour mode / settings) and edited into the final result.
